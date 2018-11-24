@@ -2,8 +2,8 @@
 CENG435 - Data Communications and Networking Term Project 1
 
 ## Authors
-Fatih DEVELİ 2330892
-Resul ÇİFTÇİ 1942598
+Fatih DEVELİ 2330892  
+Resul ÇİFTÇİ 1942598  
 Group 3
 
 ## Getting Started
