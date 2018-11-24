@@ -23,11 +23,11 @@ $ sudo pip install numpy scipy
 
 Send the source files to related virtual machines.
 
-source.py -------> s
-broker.py -------> b
-router1.py ------> r1
-router2.py ------> r2
-destination.py --> d
+source.py -------> s  
+broker.py -------> b  
+router1.py ------> r1  
+router2.py ------> r2  
+destination.py --> d  
 
 
 ## Deployment
